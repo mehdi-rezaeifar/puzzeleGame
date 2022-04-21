@@ -1,0 +1,48 @@
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.exe
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.deps.json
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.runtimeconfig.json
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.runtimeconfig.dev.json
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.dll
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.pdb
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.Form1.resources
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.csproj.GenerateResource.cache
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.AssemblyInfoInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.AssemblyInfo.cs
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.dll
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.pdb
+C:\Users\ASUS-GL552VW\source\repos\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.genruntimeconfig.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.Form1.resources
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.csproj.GenerateResource.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.AssemblyInfoInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.AssemblyInfo.cs
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.dll
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.exe
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.deps.json
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.runtimeconfig.json
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.runtimeconfig.dev.json
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.dll
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\bin\Debug\netcoreapp3.1\pazzel.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\pazzel\pazzel\obj\Debug\netcoreapp3.1\pazzel.genruntimeconfig.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\bin\Debug\netcoreapp3.1\pazzel.exe
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\bin\Debug\netcoreapp3.1\pazzel.deps.json
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\bin\Debug\netcoreapp3.1\pazzel.runtimeconfig.json
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\bin\Debug\netcoreapp3.1\pazzel.runtimeconfig.dev.json
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\bin\Debug\netcoreapp3.1\pazzel.dll
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\bin\Debug\netcoreapp3.1\pazzel.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.Form1.resources
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.csproj.GenerateResource.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.AssemblyInfoInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.AssemblyInfo.cs
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.dll
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\puzzele\pazzel\obj\Debug\netcoreapp3.1\pazzel.genruntimeconfig.cache
